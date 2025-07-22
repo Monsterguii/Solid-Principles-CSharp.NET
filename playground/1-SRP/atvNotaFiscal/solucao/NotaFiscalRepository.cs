@@ -4,7 +4,7 @@ namespace SRP.Solucao
     /// SOLUÇÃO DO SRP: Esta classe tem a responsabilidade de salvar a nota fiscal no banco de dados.
     /// Ela não deve se preocupar com os dados da nota fiscal ou com o cálculo de impostos
     /// </summary>
-    public class NotaFiscalRepository
+    public class NotaFiscalRepository : INotaFiscalRepository
     {
         public void Salvar(NotaFiscal notaFiscal)
         {

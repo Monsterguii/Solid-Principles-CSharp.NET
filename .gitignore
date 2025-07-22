@@ -1,0 +1,11 @@
+# Build directories
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Visual Studio
+.vs/
