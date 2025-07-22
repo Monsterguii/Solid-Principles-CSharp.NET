@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\bin\Debug\net9.0\atvNotaFiscal.exe
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\bin\Debug\net9.0\atvNotaFiscal.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\bin\Debug\net9.0\atvNotaFiscal.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\bin\Debug\net9.0\atvNotaFiscal.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\bin\Debug\net9.0\atvNotaFiscal.pdb
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\refint\atvNotaFiscal.dll
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.pdb
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\atvNotaFiscal.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Projetos\Solid-Principles-CSharp.NET\playground\1-SRP\atvNotaFiscal\obj\Debug\net9.0\ref\atvNotaFiscal.dll

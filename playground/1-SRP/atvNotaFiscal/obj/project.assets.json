@@ -8,31 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\guilh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\guilh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos para estudo\\Solid-Principles-C#-.NET\\playground\\1-SRP\\1-SRP.csproj",
-      "projectName": "1-SRP",
-      "projectPath": "D:\\Projetos para estudo\\Solid-Principles-C#-.NET\\playground\\1-SRP\\1-SRP.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projetos\\Solid-Principles-CSharp.NET\\playground\\1-SRP\\atvNotaFiscal\\atvNotaFiscal.csproj",
+      "projectName": "atvNotaFiscal",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projetos\\Solid-Principles-CSharp.NET\\playground\\1-SRP\\atvNotaFiscal\\atvNotaFiscal.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos para estudo\\Solid-Principles-C#-.NET\\playground\\1-SRP\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projetos\\Solid-Principles-CSharp.NET\\playground\\1-SRP\\atvNotaFiscal\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
