@@ -16,46 +16,54 @@ SOLID é um acrônimo para cinco princípios de design que visam tornar o softwa
 
 ## 🏛️ Estrutura do Projeto
 
-O playground está organizado em pastas, uma para cada princípio SOLID. Dentro de cada pasta, você encontrará a seguinte estrutura:
-
-* **`Violacao/`**: Contém o código original que apresenta o problema, violando o respectivo princípio.
-* **`Solucao/`**: Contém o código refatorado que representa a solução do desafio, aplicando o princípio corretamente.
+O playground está organizado em uma pasta principal `playground` contendo subpastas numeradas para cada princípio SOLID. Dentro de cada pasta de princípio, você encontrará diferentes exemplos e desafios:
 
 ```
-SOLID_CSharp_Playground/
+Solid-Principles-C#-.NET/
 │
-├── 1_SRP_Single_Responsibility_Principle/
-│   ├── Violacao/
-│   └── Solucao/
+├── playground/
+│   ├── 1-SRP/
+│   │   ├── exemplo/
+│   │   │   ├── solucao/
+│   │   │   └── violacao/
+│   │   └── ... (outros exemplos do SRP)
+│   │
+│   ├── 2-OCP/
+│   │   ├── exemplo/
+│   │   │   ├── solucao/
+│   │   │   └── violacao/
+│   │   └── ... (outros exemplos do OCP)
+│   │
+│   └── ... (e assim por diante para os outros princípios)
 │
-├── 2_OCP_Open_Closed_Principle/
-│   ├── Violacao/
-│   └── Solucao/
-│
-└─── ... (e assim por diante para os outros princípios)
-
+└── ... (outros arquivos do repositório)
 ```
+
+Para cada exemplo:
+* **`violacao/`**: Contém o código original que apresenta o problema, violando o respectivo princípio.
+* **`solucao/`**: Contém o código refatorado que representa a solução do desafio, aplicando o princípio corretamente.
 
 ## 🚀 Como Começar
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SOLID_CSharp_Playground.git](https://github.com/SEU-USUARIO/SOLID_CSharp_Playground.git)
+    git clone https://github.com/SEU-USUARIO/Solid-Principles-C#-.NET.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd SOLID_CSharp_Playground
+    cd Solid-Principles-C#-.NET
     ```
 3.  **Abra o projeto** em sua IDE de preferência (Visual Studio, Rider ou VS Code).
-4.  **Execute o projeto:**
+4.  **Execute os exemplos específicos:**
     ```bash
+    cd playground/1-SRP/atvNotaFiscal
     dotnet run
     ```
-    O arquivo `Program.cs` na raiz pode ser usado para testar e executar os diferentes exemplos de código de cada princípio.
+    Cada exemplo tem seu próprio arquivo `Program.cs` para demonstração.
 
 ## 🏆 Metodologia de Desafios e Avaliação
 
-Este repositório segue uma metodologia de aprendizado ativa. Para cada princípio, o código na pasta `Violacao/` serve como um desafio. Seu objetivo é refatorá-lo e criar a versão da `Solucao/`.
+Este repositório segue uma metodologia de aprendizado ativa. Para cada princípio, o código na pasta `violacao/` serve como um desafio. Seu objetivo é refatorá-lo e criar a versão da `solucao/`.
 
 As soluções são avaliadas com base nas seguintes condições e restrições:
 
